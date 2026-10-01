@@ -5,8 +5,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # ================= CONFIG =================
 BOT_TOKEN = "8832743022:AAH8LFaKzhtGCkzkfPvqwoi0YlQETM9TtP0"   # 👈 Apna bot token daalein
-API_URL = "http://rajfflivebot.onrender.com/pub/rajfflive/api"
-API_KEY = "RAJBOTSOFC"
+API_URL = "https://rupam-api.onrender.com/pub/rupamlive/api"
+API_KEY = "GotBot🔥"
 
 JOIN_LINK = "https://t.me/+Fox9o_Nr2hpjOWM9"
 DEV_LINK = "https://t.me/+Fox9o_Nr2hpjOWM9"
